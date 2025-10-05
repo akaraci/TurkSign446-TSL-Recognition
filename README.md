@@ -15,7 +15,7 @@ The dataset **TurkSign446** includes **446 Turkish Sign Language (TSL) words** (
 - Features extracted with **MediaPipe Holistic** (1662 features per frame, stored in NumPy format).  
 
 👉 The dataset is openly available on Zenodo:  
-[Zenodo Dataset DOI - to be added after upload]  
+[https://doi.org/10.5281/zenodo.17267293]  
 
 Please cite both the dataset DOI and the manuscript when using this dataset.  
 
